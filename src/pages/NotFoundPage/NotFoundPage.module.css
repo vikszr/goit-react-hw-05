@@ -1,0 +1,30 @@
+.container {
+  padding: 50px 20px;
+  text-align: center;
+}
+
+.title {
+  font-size: 4em;
+  color: #333;
+  margin: 0 0 20px 0;
+}
+
+.text {
+  font-size: 1.2em;
+  color: #666;
+  margin-bottom: 30px;
+}
+
+.link {
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: orangered;
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+  transition: background-color 250ms ease-in-out;
+}
+
+.link:hover {
+  background-color: #ff3800;
+}
